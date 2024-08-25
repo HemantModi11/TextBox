@@ -46,6 +46,10 @@ To get a local copy up and running, follow these steps.
    npm install
    ```
 
+   ```bash
+   npm install marked
+   ```
+
 ### Running the Application
 
 To run the application locally, use the following command:
